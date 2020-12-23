@@ -1,6 +1,6 @@
-package strategyPattern.Impl;
+package StrategyPattern.Impl;
 
-import strategyPattern.QuackBehavior;
+import StrategyPattern.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     @Override

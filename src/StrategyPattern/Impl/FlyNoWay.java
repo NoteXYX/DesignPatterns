@@ -1,6 +1,6 @@
-package strategyPattern.Impl;
+package StrategyPattern.Impl;
 
-import strategyPattern.FlyBehavior;
+import StrategyPattern.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
     @Override

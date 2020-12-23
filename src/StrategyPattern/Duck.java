@@ -1,4 +1,4 @@
-package strategyPattern;
+package StrategyPattern;
 
 public abstract class Duck {
     //飞行为接口
